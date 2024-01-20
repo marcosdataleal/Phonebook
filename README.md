@@ -1,2 +1,1 @@
-# Phonebook
- Phonebook project made with python 
+This Python code defines two classes: Contact and PhoneBook. The Contact class represents a contact with a name and phone number. The PhoneBook class maintains a list of contacts and has methods to add a contact, display all contacts, and search for a contact by name. The main block of the script creates a PhoneBook instance and provides a menu-driven interface for users to interact with the phone book, allowing them to add, display, and search for contacts, or exit the program.
